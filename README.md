@@ -1,7 +1,7 @@
 # Doctors Portal 
-![](https://ibb.co/4fQPzBN)
+![](https://i.ibb.co/cvmD0zT/screencapture.png)
 
-# [LIVE]()
+# [LIVE](https://dental--doctors-portal.web.app/)
 
 A full-stack app where you can pick the date and time and fix an appointment with your doctor. A doctor can review his appointments and prescribe medicine to a patient.
 
@@ -14,4 +14,5 @@ A full-stack app where you can pick the date and time and fix an appointment wit
 - Bootstrap
 - Node.js
 - MongoDB
+- Firebase
 - Heroku
